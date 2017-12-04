@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.instrument{
+    /* border: 1px solid black; */
+    font-size: 40px;
+    display: flex;
+    height: 290px;
+    width: 40%;
+}
+
+.box {
+    /* background-image: url("https://img00.deviantart.net/76a5/i/2013/031/7/6/music_notes_stock_by_bassgeisha-d3h9mpv.jpg"); */
+    font-style: italic;
+    text-decoration: underline;
+    border: 1px solid black;
+    width: 14%;
+    height: 100%;
+    color: rgba(255, 255, 255, 0.938);
+}
+
+#c {
+    border: 1px solid #38dbff;
+    background-color: #175c6d;
+}
+
+#d {
+    border: 1px solid #b497ff;
+    background-color: #6434d4;
+}
+#e {
+    border: 1px solid #35ff82;  
+    background-color: #176d38;
+}
+#f {
+    border: 1px solid #f2ff39;
+    background-color: #676d17;
+}
+#g {
+    border: 1px solid #ff7745;
+    background-color: #6d2f17;
+}
+#a {
+    border: 1px solid #ff4141;
+    background-color: #6d1717;
+}
+#b {
+    border: 1px solid #ff7fd4;
+    background-color: #a1387e;
+}
